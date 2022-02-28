@@ -2,4 +2,3 @@ tensorflow
 keras
 pillow
 pywin32
-tkinter
