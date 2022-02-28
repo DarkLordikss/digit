@@ -29,7 +29,7 @@ print(x_train.shape[0], 'Размер train')
 print(x_test.shape[0], 'Размер test')
 
 batch_size = 128
-epochs = 10
+epochs = 100
 
 #Model init
 model = Sequential()

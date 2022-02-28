@@ -4,7 +4,7 @@ from PIL import Image
 
 img = Image.open('test.png')
 img.load()
-model = load_model('mnist.h5')
+model = load_model('nr.h5')
 
 
 def predict_digit(img):
